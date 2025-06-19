@@ -81,9 +81,11 @@ Distance ≈ 0.60 meters
 Clone the repository and ensure Python 3 is installed on your system.
 
 
-git clone https://github.com/yourusername/signal-distance-estimator.git
+git clone https://github.com/h4ckd4d/signal-distance-estimator.git
 cd signal-distance-estimator
-Usage
+
+
+## Usage
 
 Run the script with Python 3:
 
